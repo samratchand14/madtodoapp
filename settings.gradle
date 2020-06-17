@@ -1,0 +1,2 @@
+rootProject.name='MADTodo'
+include ':app'

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_menu_all"
+        android:enabled="true"
+        android:icon="@drawable/icon_list"
+        android:title="@string/all"/>
+    <item
+        android:id="@+id/bottom_menu_home"
+        android:enabled="true"
+        android:icon="@drawable/home_icon"
+        android:title="@string/home"/>
+    <item
+        android:id="@+id/bottom_menu_office"
+        android:enabled="true"
+        android:icon="@drawable/office_icon"
+        android:title="@string/office"/>
+    <item
+        android:id="@+id/bottom_menu_friends"
+        android:enabled="true"
+        android:icon="@drawable/friends_icon"
+        android:title="@string/friends"/>
+    <item
+        android:id="@+id/bottom_menu_family"
+        android:enabled="true"
+        android:icon="@drawable/family_icon"
+        android:title="@string/family"/>
+</menu>
